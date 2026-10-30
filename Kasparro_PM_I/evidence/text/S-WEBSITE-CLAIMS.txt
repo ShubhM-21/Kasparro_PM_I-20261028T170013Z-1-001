@@ -1,0 +1,1 @@
+L1: The page displays 18.4 percent as an average baseline near the top and as a median baseline in its evidence section. It also claims 3.4 times inclusion lift over 90 days. No underlying study dataset or independent validation is included in this evidence set.

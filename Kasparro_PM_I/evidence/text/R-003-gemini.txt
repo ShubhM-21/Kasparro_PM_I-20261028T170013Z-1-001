@@ -1,0 +1,31 @@
+L1: When comparing **Kasparro** and **Profound** for tracking B2B software recommendations on LLMs like Claude, ChatGPT, and Perplexity, you are looking at two platforms built for AI Search Optimization (AEO) and Generative Engine Optimization (GEO).[www.tryprofound.com](https://www.tryprofound.com/blog/best-ai-visibility-tools-for-marketing-agencies#:~:text=It%20also%20operates%20as%20a%20service%20provider%2C,genuine%20AEO%20strategy%20support.%20*%204.%20Otterly.)
+L2: 
+L3: However, they operate at very different scales and target distinct use cases:
+L4: 
+L5: * **Profound** is an established, enterprise-grade AI visibility platform built specifically to track how brands appear across major answer engines.[www.tryprofound.com](https://www.tryprofound.com/blog/best-ai-visibility-tools-for-marketing-agencies#:~:text=Founded%20in%202024%2C%20Profound%20is%20an%20AI,citations%2C%20tracks%20sentiment%2C%20and%20provides%20competitive%20insights.) It features robust multi-engine dashboards, prompt volume insights, sentiment tracking, crawler logs, and automated content-generation workflows.[www.tryprofound.com](https://www.tryprofound.com/blog/best-ai-visibility-tools-for-marketing-agencies#:~:text=Founded%20in%202024%2C%20Profound%20is%20an%20AI,citations%2C%20tracks%20sentiment%2C%20and%20provides%20competitive%20insights.)
+L6: * **Kasparro** is an emerging AI brand intelligence and SEO platform designed to audit and improve how AI systems represent brands.[getmereferred.com](https://getmereferred.com/in/job-listing/content-and-community-associate-kasparro-ai-inkabengaluru-to-3-years-experience-a83a9c86-b25b-4b5f-9fc2-4adfaf9fb550) It splits its focus across four layers: monitoring, on-site technical/content fixes, off-site engagement (such as Reddit and review sites), and authority building.[bebee.com](https://bebee.com/in/jobs/sales-development-representative-kasparro-ai-bengaluru-karnataka--t7xk-768443556#:~:text=Tools%3A%20*%20About%20Kasparro.%20An%20AI%20Visibility,%28Reddit%2C%20reviews%2C%20YouTube%2C%20Wikipedia%29%2C%20and%20authority%2Fcitation%20building.)
+L7: 
+L8: ---
+L9: 
+L10: ### Key Comparison
+L11: 
+L12: | Feature / Capability | Profound | Kasparro |
+L13: | :--- | :--- | :--- |
+L14: | **Primary Focus** | Enterprise-grade AI visibility tracking, multi-engine analytics, and automated content workflows. | End-to-end AI visibility audit + multi-layered remediation (on-site, off-site, and authority building). |
+L15: | **Claude & LLM Tracking** | Deep tracking across major LLMs with historical data, share-of-voice, and prompt-level citation mapping. | Tracks discovery and recommendations across Claude, Gemini, ChatGPT, and Perplexity. |
+L16: | **Actionable Workflows** | Automated brief generation and content creation workflows to close visibility gaps. | Holistic approach spanning technical fixes, citation building, and off-site ecosystem tracking (e.g., Reddit, YouTube). |
+L17: | **Maturity & Scale** | Highly polished, commercially scaled tool geared toward mid-market/enterprise marketing teams and agencies. | Leaner, founder-led agile platform geared toward fast-moving tech and e-commerce brands. |
+L18: 
+L19: ---
+L20: 
+L21: ### Which one should you choose?
+L22: 
+L23: * **Choose Profound if:** You need an enterprise-ready, highly stable platform focused strictly on data depth, historical tracking, multi-engine analytics, and scaling content workflows across a marketing or agency team. It is structurally superior if you want robust, out-of-the-box reporting on how Claude and other LLMs frame your B2B software versus your competitors.
+L24: * **Choose Kasparro if:** You prefer an emerging, hands-on solution that leans heavily into actionable remediation across the entire digital ecosystem (fixing the external signals—like developer forums, review sites, and technical content—that Claude actually uses to build its recommendations).[bebee.com](https://bebee.com/in/jobs/sales-development-representative-kasparro-ai-bengaluru-karnataka--t7xk-768443556#:~:text=We%20measure%20and%20fix%20it%20across%20four,Why%20this%20role.%20The%20AE%20closes%20deals%3B)
+L25: 
+L26: Citations:
+L27: [1] https://www.tryprofound.com/blog/best-ai-visibility-tools-for-marketing-agencies#:~:text=It%20also%20operates%20as%20a%20service%20provider%2C,genuine%20AEO%20strategy%20support.%20*%204.%20Otterly.
+L28: [2] https://www.tryprofound.com/blog/best-ai-visibility-tools-for-marketing-agencies#:~:text=Founded%20in%202024%2C%20Profound%20is%20an%20AI,citations%2C%20tracks%20sentiment%2C%20and%20provides%20competitive%20insights.
+L29: [3] https://getmereferred.com/in/job-listing/content-and-community-associate-kasparro-ai-inkabengaluru-to-3-years-experience-a83a9c86-b25b-4b5f-9fc2-4adfaf9fb550
+L30: [4] https://bebee.com/in/jobs/sales-development-representative-kasparro-ai-bengaluru-karnataka--t7xk-768443556#:~:text=Tools%3A%20*%20About%20Kasparro.%20An%20AI%20Visibility,(Reddit%2C%20reviews%2C%20YouTube%2C%20Wikipedia)%2C%20and%20authority%2Fcitation%20building.
+L31: [5] https://bebee.com/in/jobs/sales-development-representative-kasparro-ai-bengaluru-karnataka--t7xk-768443556#:~:text=We%20measure%20and%20fix%20it%20across%20four,Why%20this%20role.%20The%20AE%20closes%20deals%3B

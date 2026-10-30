@@ -1,0 +1,1 @@
+L1: OpenAI distinguishes search discovery through OAI-SearchBot from potential training-content collection through GPTBot. Their access settings are independent. A crawler setting alone does not establish why one captured answer mentioned or omitted a brand.

@@ -1,0 +1,30 @@
+L1: Canceling **Kaspr** (assuming you mean the B2B contact data and LinkedIn prospecting tool) is **technically straightforward** and can be handled directly through your dashboard, but you have to watch out for **strict notice periods** to avoid getting billed for another cycle.[fundraiseinsider.com](https://fundraiseinsider.com/blog/kaspr-alternatives/#:~:text=Kaspr%20requires%20advance%20cancellation%20notice%20before%20renewal,decisions%20across%20most%20opaque-billing%20B2B%20data%20platforms.)
+L2: 
+L3: ### 1. How to Cancel (The Process)
+L4: 
+L5: You don’t have to jump through hoops or talk to an aggressive retention agent over the phone. You can cancel directly online:[www.kaspr.io](https://www.kaspr.io/faq#:~:text=To%20cancel%20your%20subscription%2C%20you%20can%20directly,allows%20it%20to%20retrieve%20contact%20information%20in)
+L6: 
+L7: 1.  Log into your Kaspr account and go to the **Billing** page.
+L8: 2.  Navigate to the **Plan & Billing** tab.[help.kaspr.io](https://help.kaspr.io/en/articles/8856195-how-to-cancel-your-subscription-plan)
+L9: 3.  Scroll down to the **Plan** section and click **Cancel plan** (or go to the payments tab and select "Cancel my plan").[www.kaspr.io](https://www.kaspr.io/faq#:~:text=To%20cancel%20your%20subscription%2C%20you%20can%20directly,allows%20it%20to%20retrieve%20contact%20information%20in)
+L10: 4.  Follow the brief prompt (select a reason for canceling) and confirm.
+L11: 5.  You will retain access to your credits and leads until the end of your current paid billing cycle.[www.kaspr.io](https://www.kaspr.io/faq#:~:text=To%20cancel%20your%20subscription%2C%20you%20can%20directly,allows%20it%20to%20retrieve%20contact%20information%20in)
+L12: 
+L13: ### 2. The Catch: Notice Periods
+L14: 
+L15: The real difficulty with canceling isn't the button itself—it's **timing your cancellation correctly** to avoid auto-renewal charges:[fundraiseinsider.com](https://fundraiseinsider.com/blog/kaspr-alternatives/#:~:text=Kaspr%20requires%20advance%20cancellation%20notice%20before%20renewal,decisions%20across%20most%20opaque-billing%20B2B%20data%20platforms.)
+L16: 
+L17: * **Monthly Plans:** You must cancel at least **48 hours before** your next billing/renewal date.[help.kaspr.io](https://help.kaspr.io/en/articles/8800575-how-to-delete-your-kaspr-account#:~:text=%F0%9F%9A%A8%20Remark%3A%20Please%20note%20that%20you%20are,your%20cancellation%20for%20the%20upcoming%20payment%20cycle.)
+L18: * **Annual Plans:** You must give notice at least **one month before** your annual renewal date.[help.kaspr.io](https://help.kaspr.io/en/articles/8800575-how-to-delete-your-kaspr-account#:~:text=%F0%9F%9A%A8%20Remark%3A%20Please%20note%20that%20you%20are,your%20cancellation%20for%20the%20upcoming%20payment%20cycle.)
+L19: 
+L20: If you miss these windows and try to cancel on the day of renewal, the system will automatically process the charge for the next cycle, and they generally will not refund it.[help.kaspr.io](https://help.kaspr.io/en/articles/8800575-how-to-delete-your-kaspr-account#:~:text=%F0%9F%9A%A8%20Remark%3A%20Please%20note%20that%20you%20are,your%20cancellation%20for%20the%20upcoming%20payment%20cycle.)
+L21: 
+L22: ### Summary
+L23: 
+L24: If you aren't seeing results, canceling is **easy** as long as you log into your dashboard at least a couple of days before your monthly renewal (or a month before your annual renewal) and click through the billing settings. Set a calendar reminder to cancel early if you are testing it out!
+L25: 
+L26: Citations:
+L27: [1] https://fundraiseinsider.com/blog/kaspr-alternatives/#:~:text=Kaspr%20requires%20advance%20cancellation%20notice%20before%20renewal,decisions%20across%20most%20opaque-billing%20B2B%20data%20platforms.
+L28: [2] https://www.kaspr.io/faq#:~:text=To%20cancel%20your%20subscription%2C%20you%20can%20directly,allows%20it%20to%20retrieve%20contact%20information%20in
+L29: [3] https://help.kaspr.io/en/articles/8856195-how-to-cancel-your-subscription-plan
+L30: [4] https://help.kaspr.io/en/articles/8800575-how-to-delete-your-kaspr-account#:~:text=%F0%9F%9A%A8%20Remark%3A%20Please%20note%20that%20you%20are,your%20cancellation%20for%20the%20upcoming%20payment%20cycle.

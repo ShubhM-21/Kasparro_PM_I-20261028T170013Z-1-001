@@ -1,0 +1,33 @@
+L1: {
+L2:   "run_id": "4a4b71d9-9b0d-4497-85f1-7db5c4e21472",
+L3:   "brand": "Kasparro",
+L4:   "domain": "kasparro.com",
+L5:   "historical_capture_date": "2026-07-31",
+L6:   "pack_prepared_at": "2026-10-27",
+L7:   "source_export_date": "2026-10-27",
+L8:   "location": "India",
+L9:   "language": "en",
+L10:   "capture_provider": "DataForSEO",
+L11:   "engines": {
+L12:     "aimode": "Google AI Mode",
+L13:     "chatgpt": "ChatGPT",
+L14:     "gemini": "Gemini"
+L15:   },
+L16:   "original_run_counts": {
+L17:     "prompts": 50,
+L18:     "responses": 150,
+L19:     "citation_occurrences": 2439
+L20:   },
+L21:   "status_basis": "capture_status is a packaging description of archived captured answers, not a model-quality judgment.",
+L22:   "provenance": {
+L23:     "source_archive_name": "Kasparro_robust_run_2026-07-31.zip",
+L24:     "source_archive_sha256": "5ff5316bf25a9d28bbde270f2b747d87a2d4044754ab694d896e2cb07dda0656"
+L25:   },
+L26:   "limitations": [
+L27:     "One captured answer per prompt and engine; no repeated-run reliability evidence.",
+L28:     "Model labels are provider-reported; missing labels remain null.",
+L29:     "Publication dates were not recorded for the supplied citation entries.",
+L30:     "Sentiment/perception captures and existing production scores are outside this pack.",
+L31:     "Historical answers may differ from current live results."
+L32:   ]
+L33: }

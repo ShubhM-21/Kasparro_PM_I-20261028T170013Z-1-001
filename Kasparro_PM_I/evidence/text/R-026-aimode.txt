@@ -1,0 +1,64 @@
+L1: B2B SaaS brands track ChatGPT recommendations by `shifting from traditional SEO to AI Visibility Tracking` , focusing on how Large Language Models (LLMs) synthesize third-party data rather than just ranking webpages . They monitor this through a combination of manual testing, specialized AI tracking tools, and indirect analytics.[](https://thirdmeta.in/blog/how-to-rank-on-chatgpt) [[1]](https://thirdmeta.in/blog/how-to-rank-on-chatgpt)[[2]](https://ayzeo.com/use-cases/saas-companies)[[3]](https://www.leadwalnut.com/blog/chatgpt-seo)[[4]](https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd)
+L2: 
+L3: Here is how B2B SaaS brands track ChatGPT recommendations:
+L4: 
+L5: 1. Manual Monitoring (High-Intent Prompting)
+L6: 
+L7: - **Prompt Testing:** Marketers run 10–20 specific, high-intent buyer queries (e.g., "best CRM for manufacturing under 50 users," "[Competitor] alternatives") in ChatGPT, Gemini, and Perplexity every 2-4 weeks.[](https://thirdmeta.in/blog/how-to-rank-on-chatgpt) [[1]](https://cllimber.com/why-isnt-my-saas-showing-up-in-chatgpt-the-7-causes-and-the-fixes/)[[2]](https://www.cognizo.ai/blog/ai-visibility-platforms)[[3]](https://www.linkedin.com/posts/connorgillivan_how-to-rank-on-chatgpt-cheat-sheet-how-activity-7362830032991391744-U--z)
+L8: - **Documentation:** They document mentions, competitor co-mentions, position in the response, and sentiment (positive/negative) in a tracking spreadsheet.[](https://thirdmeta.in/blog/how-to-rank-on-chatgpt) [[1]](https://dageno.ai/academy/18-chatgpt-ranking-tools-comparison-for-b2b-saas-teams)
+L9: - **Focus on Context:** They look for mentions in, and citations from, trusted third-party review platforms (G2, Capterra) or technical forums (Reddit, Stack Overflow).[](https://www.reddit.com/r/growthmarketing/comments/1qd1p7k/whats_your_strategy_for_appearing_in_chatgpt/) [[1]](https://www.reddit.com/r/growthmarketing/comments/1qd1p7k/whats_your_strategy_for_appearing_in_chatgpt/)[[2]](https://growtika.com/blog/how-to-get-saas-mentioned-chatgpt)
+L10: 
+L11: 2. Specialized AI Visibility Tools
+L12: 
+L13: Several specialized platforms allow brands to automate tracking of ChatGPT brand mentions and citations:[](https://dageno.ai/academy/18-chatgpt-ranking-tools-comparison-for-b2b-saas-teams) [[1]](https://dageno.ai/en/blog/how-to-monitor-brand-mentions-in-chatgpt-for-b2b-saas)[[2]](https://technologyadvice.com/blog/sales/why-track-ai-brand-visibility/)[[3]](https://seoprofy.com/blog/how-to-rank-on-chatgpt/)[[4]](https://www.airops.com/blog/how-to-test-content-visibility-in-perplexity-and-chatgpt)
+L14: 
+L15: - **CoreMention:** Monitors AI visibility across ChatGPT, Perplexity, Claude, and Gemini to track brand mentions, competitor comparisons, and source tracking.
+L16: - **Gracker.ai:** Purpose-built for B2B SaaS to track AI citation rates and share of voice across multiple models.
+L17: - **[Dageno AI](https://dageno.ai/academy/18-chatgpt-ranking-tools-comparison-for-b2b-saas-teams):** Focuses on tracking AI mentions, answer position, and sentiment to identify gaps.
+L18: - **[Scrunch AI](https://www.leadwalnut.com/blog/chatgpt-seo) & Semrush's AI Toolkit:** Used for automating share-of-voice tracking in AI tools.[](https://www.reddit.com/r/growthmarketing/comments/1qd1p7k/whats_your_strategy_for_appearing_in_chatgpt/) [[1]](https://gracker.ai/blog/best-ai-visibility-tools-b2b-saas)[[2]](https://gracker.ai/white-papers/traditional-vs-ai-powered-real-time-programmatic-seo/)
+L19: 
+L20: 3. Indirect Analytics Tracking
+L21: 
+L22: - **Unexplained Direct Traffic:** A spike in direct traffic often correlates with AI referrals, as many LLM conversations don't pass standard UTM parameters.[](https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd) 
+L23: - **Branded Search Volume:** An increase in searches for the company name, particularly when accompanied by "vs" or "alternatives," often indicates ChatGPT recommendation.[](https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd) [[1]](https://www.reddit.com/r/growmybusiness/comments/1qarxhi/how_do_you_track_if_your_website_is_being/)[[2]](https://chrisraulf.com/social-media-seo-strategy-when-prospects-find-you-on-chatgpt/)
+L24: - **Demo Request Attribution:** Adding "How did you hear about us?" fields to onboarding forms that specifically include "AI Search/ChatGPT" options.[](https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd) [[1]](https://www.dataslayer.ai/blog/how-to-measure-your-visibility-on-chatgpt-and-perplexity)[[2]](https://www.airops.com/blog/llm-brand-citation-tracking)[[3]](https://medium.com/@lincolnmurphy/using-chatgpt-to-create-customer-success-playbooks-c7a91a3cbc84)
+L25: 
+L26: Key Metrics to Monitor
+L27: 
+L28: - **Mention Rate:** Percentage of relevant queries where the brand appears.
+L29: - **Citation Rate:** How often ChatGPT cites the company's content as a source.
+L30: - **Share of Voice:** Mentions compared to competitors.
+L31: - **Average Answer Position:** Where the brand falls in the recommended list.[](https://dageno.ai/academy/18-chatgpt-ranking-tools-comparison-for-b2b-saas-teams) 
+L32: 
+L33: For more context on how to get your brand in those recommendations, this [Reddit discussion](https://www.reddit.com/r/b2bmarketing/comments/1t9zhic/how_to_actually_get_your_business_showing_up_in/) provides real-world tips from marketers.
+L34: 
+L35: If you'd like, I can:
+L36: 
+L37: - Share the **top 10 AI visibility tools** used by B2B companies.
+L38: - Suggest **10-15 high-intent prompts** for your specific industry.
+L39: - Outline the **exact steps** to get cited by ChatGPT.
+L40: 
+L41: Let me know which you'd find most helpful!
+L42: 
+L43: Citations:
+L44: [1] https://www.reddit.com/r/growthmarketing/comments/1qd1p7k/whats_your_strategy_for_appearing_in_chatgpt/
+L45: [2] https://dageno.ai/academy/18-chatgpt-ranking-tools-comparison-for-b2b-saas-teams
+L46: [3] https://www.leadwalnut.com/blog/chatgpt-seo
+L47: [4] https://thirdmeta.in/blog/how-to-rank-on-chatgpt
+L48: [5] https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd
+L49: [6] https://ayzeo.com/use-cases/saas-companies
+L50: [7] https://growtika.com/blog/how-to-get-saas-mentioned-chatgpt
+L51: [8] https://cllimber.com/why-isnt-my-saas-showing-up-in-chatgpt-the-7-causes-and-the-fixes/
+L52: [9] https://gracker.ai/blog/best-ai-visibility-tools-b2b-saas
+L53: [10] https://dageno.ai/en/blog/how-to-monitor-brand-mentions-in-chatgpt-for-b2b-saas
+L54: [11] https://www.cognizo.ai/blog/ai-visibility-platforms
+L55: [12] https://www.linkedin.com/posts/connorgillivan_how-to-rank-on-chatgpt-cheat-sheet-how-activity-7362830032991391744-U--z
+L56: [13] https://technologyadvice.com/blog/sales/why-track-ai-brand-visibility/
+L57: [14] https://seoprofy.com/blog/how-to-rank-on-chatgpt/
+L58: [15] https://www.airops.com/blog/how-to-test-content-visibility-in-perplexity-and-chatgpt
+L59: [16] https://gracker.ai/white-papers/traditional-vs-ai-powered-real-time-programmatic-seo/
+L60: [17] https://www.reddit.com/r/growmybusiness/comments/1qarxhi/how_do_you_track_if_your_website_is_being/
+L61: [18] https://chrisraulf.com/social-media-seo-strategy-when-prospects-find-you-on-chatgpt/
+L62: [19] https://www.dataslayer.ai/blog/how-to-measure-your-visibility-on-chatgpt-and-perplexity
+L63: [20] https://www.airops.com/blog/llm-brand-citation-tracking
+L64: [21] https://medium.com/@lincolnmurphy/using-chatgpt-to-create-customer-success-playbooks-c7a91a3cbc84

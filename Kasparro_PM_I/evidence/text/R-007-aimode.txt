@@ -1,0 +1,20 @@
+L1: The [Kasparro four-module audit](https://kasparro.com/) scores how artificial intelligence engines and AI commerce systems perceive and represent a brand. It evaluates a brand's digital presence across four key dimensions to assess its "AI-readiness" and visibility.[](https://kasparro.com/) [[1]](https://kasparro.com/)[[2]](https://getmereferred.com/in/job-listing/content-and-community-associate-kasparro-ai-inkabengaluru-to-3-years-experience-a83a9c86-b25b-4b5f-9fc2-4adfaf9fb550)
+L2: 
+L3: The four modules cover:
+L4: 
+L5: - **Search Visibility:** Measures if a brand appears in high-intent comparative prompts across major AI engines (e.g.,ChatGPT, Gemini, Perplexity). Key metrics include inclusion rates and comparative recall.[](https://kasparro.com/) 
+L6: - **Trust Signals:** Assesses the presence of verifiable claims, third-party citations, and structured proof that AI engines use for accuracy. This includes citation depth and claim alignment.[](https://kasparro.com/) 
+L7: - **Content Quality:** Analyzes how effectively a brand's catalog and editorial data are structured to fit how language models index, understand, and rank information. This includes coverage, attribute density, and embeddings drift.[](https://kasparro.com/) 
+L8: - **Transaction Readiness:** Evaluates how easily an AI agent can complete a transaction on the brand's behalf, including schema parity, agent-ready SKUs, and latency.[](https://kasparro.com/) 
+L9: 
+L10: If you are considering this audit, I can:
+L11: 
+L12: - Detail the **specific actions** you can take to improve the scores.
+L13: - Explain how to **track competitors** using this framework.
+L14: - Discuss the **importance of "AI-readiness"** in 2026.
+L15: 
+L16: Let me know which aspect you'd like to explore further.
+L17: 
+L18: Citations:
+L19: [1] https://kasparro.com/
+L20: [2] https://getmereferred.com/in/job-listing/content-and-community-associate-kasparro-ai-inkabengaluru-to-3-years-experience-a83a9c86-b25b-4b5f-9fc2-4adfaf9fb550

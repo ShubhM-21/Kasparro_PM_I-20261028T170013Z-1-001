@@ -1,0 +1,32 @@
+L1: If you mean **Kaspr** (the B2B lead generation platform), canceling is generally straightforward, but there are a couple of important timing rules.
+L2: 
+L3: You can cancel from your account by going to **Billing → Plan & Billing → Cancel plan**, then following the confirmation steps. [help.kaspr.io](https://help.kaspr.io/en/articles/8856195-how-to-cancel-your-subscription-plan?utm_source=chatgpt.com)
+L4: 
+L5: The main thing to watch is the **notice period**:
+L6: 
+L7: - **Monthly plans:** Cancel **at least 48 hours before** your renewal date.
+L8: - **Annual plans:** Cancel **at least 30 days before** your renewal date.
+L9: 
+L10: If you miss those deadlines, the subscription may renew for the next billing period. [help.kaspr.io](https://help.kaspr.io/en/articles/8856195-how-to-cancel-your-subscription-plan?utm_source=chatgpt.com)[www.kaspr.io](https://www.kaspr.io/terms?utm_source=chatgpt.com)
+L11: 
+L12: A few other details:
+L13: 
+L14: - After canceling, you typically keep access until the end of the paid billing period. [www.kaspr.io](https://www.kaspr.io/terms?utm_source=chatgpt.com)
+L15: - Early cancellation generally **does not entitle you to a refund** for the current subscription period. [help.kaspr.io](https://help.kaspr.io/en/articles/8856195-how-to-cancel-your-subscription-plan?utm_source=chatgpt.com)[www.kaspr.io](https://www.kaspr.io/terms?utm_source=chatgpt.com)
+L16: - Deleting your account is a separate action from canceling your subscription and can permanently remove your data. [help.kaspr.io](https://help.kaspr.io/en/articles/8800575-how-to-delete-your-kaspr-account?utm_source=chatgpt.com)
+L17: 
+L18: If you meant a different service by "Kasparro," let me know which one, and I can check its specific cancellation policy.
+L19: 
+L20: Citations:
+L21: [1] https://help.kaspr.io/en/articles/8856195-how-to-cancel-your-subscription-plan
+L22: [2] https://www.kaspr.io/terms
+L23: [3] https://help.kaspr.io/en/articles/8800575-how-to-delete-your-kaspr-account
+L24: [4] https://help.kaspr.io/en/articles/9090907-kaspr-faqs
+L25: [5] https://www.kaspr.io/faq
+L26: [6] https://opsyra.in/refund-policy
+L27: [7] https://support.agorapulse.com/en/articles/15075866-agorapulse-refund-policy
+L28: [8] https://usa.kaspersky.com/cancellation
+L29: [9] https://help.kashoo.com/en/articles/370428-kashoo-classic-cancelling-subscriptions-and-removing-businesses
+L30: [10] https://www.maspar.com/pages/cancellation-policy
+L31: [11] https://caspar.ai/terms-of-use
+L32: [12] https://askcasper.ai/cancellation

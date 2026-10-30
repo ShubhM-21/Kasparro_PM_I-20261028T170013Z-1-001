@@ -1,0 +1,32 @@
+L1: Based on my research, Kasparro is not a widely recognized, top-tier agency or tool in the AI visibility space (AISO - AI Search Optimization) for B2B SaaS according to public search results as of July 2026.
+L2: 
+L3: However, the strategy you are describing—**getting B2B SaaS companies recommended by ChatGPT** —is a real and highly effective marketing approach known as **AISO (AI Search Optimization)** or **GEO (Generative Engine Optimization)**.[](https://www.reddit.com/r/SaaS/comments/1jjjfgl/how_i_ranked_a_b2b_saas_company_inside_chatgpt/) [[1]](https://www.reddit.com/r/SaaS/comments/1jjjfgl/how_i_ranked_a_b2b_saas_company_inside_chatgpt/)[[2]](https://www.linkedin.com/posts/apoorvshrm_most-saas-founders-have-no-idea-theyre-invisible-activity-7314882008474624001-hwhd)[[3]](https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd)[[4]](https://revenuezen.com/generative-engine-optimization-geo-b2b/)
+L4: 
+L5: Here is how companies are actually getting recommended by ChatGPT:
+L6: 
+L7: - **Third-Party Validation over SEO:** Over 88% of ChatGPT recommendations cite third-party sources (like Reddit, [G2](https://www.g2.com/), [Capterra](https://www.capterra.com/) , or media articles) rather than the company's own website.[](https://www.barchart.com/story/news/2293691/chatgpt-recommends-b2b-saas-tools-but-cites-their-own-sites-just-12-of-the-time-study-finds) [[1]](https://www.barchart.com/story/news/2293691/chatgpt-recommends-b2b-saas-tools-but-cites-their-own-sites-just-12-of-the-time-study-finds)
+L8: - **Fixing "Category Entity Association":** To be recommended, you must be recognized as a member of your software category. This requires updating company profiles on review sites and building a consistent presence on third-party platforms.[](https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt) [[1]](https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt)[[2]](https://www.quora.com/Why-doesnt-ChatGPT-recommend-my-SaaS)
+L9: - **"Represent & Reinforce":** Companies are updating their websites to have clear, answer-ready content (less "marketing fluff," more direct answers) that AI can easily cite, while simultaneously creating content across multiple platforms to build trust.[](https://www.linkedin.com/posts/apoorvshrm_most-ai-search-advice-is-generic-slop-because-activity-7485589705800163329-g8mB) [[1]](https://www.linkedin.com/posts/apoorvshrm_most-ai-search-advice-is-generic-slop-because-activity-7485589705800163329-g8mB)
+L10: - **The "3R" Method:** Experts suggest using the "Rank-Represent-Reinforce" method, which involves ranking in search, being represented clearly to AI, and reinforcing that trust across the web.[](https://www.linkedin.com/posts/apoorvshrm_most-ai-search-advice-is-generic-slop-because-activity-7485589705800163329-g8mB) 
+L11: 
+L12: If a service is offering this, the core of their work should be focusing on third-party validation (Reddit, G2) rather than just traditional backlinks.[[1]](https://www.reddit.com/r/SaaS/comments/1ruljm8/how_to_get_your_b2b_saas_tool_recommended_by/)[[2]](https://www.instagram.com/reel/DafbdGPgowL/)
+L13: 
+L14: To help you evaluate if they are legitimate, could you tell me:
+L15: 
+L16: - **What specific, verifiable case studies** or **named clients** have they provided?
+L17: - Are they focusing on **Reddit/G2/Capterra** or just your company website?
+L18: 
+L19: I can tell you if their strategy matches the current 2026 industry standards.
+L20: 
+L21: Citations:
+L22: [1] https://www.linkedin.com/posts/apoorvshrm_most-saas-founders-have-no-idea-theyre-invisible-activity-7314882008474624001-hwhd
+L23: [2] https://www.linkedin.com/posts/floriandarroman_how-to-get-chatgpt-to-recommend-your-saas-activity-7464673690614558721-APQN
+L24: [3] https://www.linkedin.com/posts/apoorvshrm_most-ai-search-advice-is-generic-slop-because-activity-7485589705800163329-g8mB
+L25: [4] https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt
+L26: [5] https://www.barchart.com/story/news/2293691/chatgpt-recommends-b2b-saas-tools-but-cites-their-own-sites-just-12-of-the-time-study-finds
+L27: [6] https://www.reddit.com/r/SaaS/comments/1jjjfgl/how_i_ranked_a_b2b_saas_company_inside_chatgpt/
+L28: [7] https://www.reddit.com/r/SaaS/comments/1ruljm8/how_to_get_your_b2b_saas_tool_recommended_by/
+L29: [8] https://www.quora.com/Why-doesnt-ChatGPT-recommend-my-SaaS
+L30: [9] https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd
+L31: [10] https://revenuezen.com/generative-engine-optimization-geo-b2b/
+L32: [11] https://www.instagram.com/reel/DafbdGPgowL/

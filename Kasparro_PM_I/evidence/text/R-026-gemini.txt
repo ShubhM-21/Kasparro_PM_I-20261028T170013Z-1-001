@@ -1,0 +1,45 @@
+L1: As B2B buyers increasingly bypass traditional search engines to ask ChatGPT for vendor shortlists and software recommendations, tracking your brand's "AI Share of Voice" has become a critical GTM motion.[www.leadwalnut.com](https://www.leadwalnut.com/blog/chatgpt-seo#:~:text=It%20represents%20a%20fundamental%20shift%20from%20optimizing,the%20best%20cybersecurity%20platform%20for%20mid-market%20enterprises%3F%22)
+L2: 
+L3: B2B SaaS brands track whether ChatGPT is recommending them using a combination of manual testing, dedicated AI visibility tools, and indirect inbound signals.
+L4: 
+L5: ---
+L6: 
+L7: ### 1. Dedicated AI Visibility & Monitoring Tools
+L8: 
+L9: To avoid manually querying ChatGPT every day, SaaS marketing teams use specialized tools (such as **HubSpot’s AEO features**, **Metricus**, **Brand24**, and emerging LLM tracking software) to automate the process.[metricusapp.com](https://metricusapp.com/blog/b2b-saas-invisible-chatgpt/#:~:text=AI%20visibility%20for%20B2B%20SaaS%20is%20the,article.%20The%20B2B%20buyer%20shift%20to%20AI%3B) These platforms:
+L10: 
+L11: * **Track Prompt Matrices:** Automatically run hundreds of high-intent buyer prompts (e.g., *"Best enterprise billing software for mid-market SaaS"*) across ChatGPT and other LLMs.
+L12: * **Measure Mention & Citation Rates:** Calculate how frequently your brand appears in shortlists compared to competitors.
+L13: * **Audit Underlying Sources:** Show *why* ChatGPT recommended a competitor by highlighting which third-party web pages, Reddit threads, or G2 categories the AI scraped to build its response.
+L14: 
+L15: ### 2. Manual "Probe Query" Audits
+L16: 
+L17: Most marketing teams still maintain a spreadsheet of **100 to 300 core buyer prompts** to test manually on a weekly or bi-weekly cadence.
+L18: 
+L19: * **Simulate Real Buyer Context:** They test variations based on persona, company size, and pain points (e.g., *"What is a good alternative to [Competitor] for remote engineering teams?"*).
+L20: * **Log the Outputs:** Track whether the brand is recommended, how it is described (sentiment and positioning), and which exact competitors are taking up the shortlist slots.[www.devcommx.com](https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt#:~:text=See%20Whether%20ChatGPT%20Recommends%20You%20Today.%20Most,that%20citation%20log%20is%20your%20work%20queue.)
+L21: 
+L22: ### 3. Analyzing Inbound & Web Analytics Signals
+L23: 
+L24: Because ChatGPT users often click links embedded in citations or copy-paste URLs directly into their browsers, AI recommendations create distinct downstream digital footprints:
+L25: 
+L26: * **Referral Traffic Sources:** Look for traffic originating from `chat.openai.com` in Google Analytics.[blog.hubspot.com](https://blog.hubspot.com/marketing/chatgpt-product-recommendations#:~:text=If%20you're%20linked%20or%20cited%20in%20ChatGPT,*%20Track%20brand%20mentions%20with%20monitoring%20tools.) While many LLM interactions happen entirely inside the chat interface without a click, direct traffic spikes often correlate with AI recommendation waves.[medium.com](https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd#:~:text=Share%20of%20voice%3A%20Your%20citations%20compared%20to,*%20More%20qualified%20leads%20mentioning%20specific%20features.)
+L27: * **Attribution in Demo Forms:** Update form fields (like *"How did you hear about us?"*) to include options like **"AI Assistant / ChatGPT."** Many B2B SaaS companies find that leads mentioning ChatGPT convert at significantly higher rates because they arrive pre-educated and pre-sold.
+L28: * **Branded Search Lifts:** Track a sudden surge in branded search queries.[medium.com](https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd#:~:text=Share%20of%20voice%3A%20Your%20citations%20compared%20to,*%20More%20qualified%20leads%20mentioning%20specific%20features.) When ChatGPT recommends a SaaS tool, users frequently turn to Google to navigate straight to the pricing or login page.
+L29: 
+L30: ### 4. Monitoring the Upstream Data Sources (The "Why")
+L31: 
+L32: Because ChatGPT builds its recommendations based on parametric memory (its training data) and live retrieval (Bing/OpenAI search index), SaaS brands also track the ecosystems that feed ChatGPT:[www.devcommx.com](https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt#:~:text=ChatGPT%20builds%20a%20shortlist%20from%20two%20stores.,OAI-SearchBot%20and%20the%20index%20behind%20ChatGPT%20search.)
+L33: 
+L34: * **Review Platform Dominance:** ChatGPT heavily pulls from aggregator grids like **G2, Capterra, and TrustRadius**.[www.devcommx.com](https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt#:~:text=To%20get%20your%20SaaS%20recommended%20by%20ChatGPT,one%20line%20description%20of%20what%20you%20sell.) Tracking your rank and sentiment on these sites serves as a proxy for how likely the model is to suggest you.
+L35: * **Community Footprint:** Because models index platforms like Reddit, GitHub, and specialized forums, brands monitor community sentiment and thread volume to ensure they are part of the organic developer or buyer chatter that LLMs ingest.[www.devcommx.com](https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt#:~:text=The%20full%20technical%20checklist%20lives%20in%20our,for%20the%20same%20claim%20from%20independent%20places.)
+L36: 
+L37: Citations:
+L38: [1] https://www.leadwalnut.com/blog/chatgpt-seo#:~:text=It%20represents%20a%20fundamental%20shift%20from%20optimizing,the%20best%20cybersecurity%20platform%20for%20mid-market%20enterprises%3F%22
+L39: [2] https://metricusapp.com/blog/b2b-saas-invisible-chatgpt/#:~:text=AI%20visibility%20for%20B2B%20SaaS%20is%20the,article.%20The%20B2B%20buyer%20shift%20to%20AI%3B
+L40: [3] https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt#:~:text=See%20Whether%20ChatGPT%20Recommends%20You%20Today.%20Most,that%20citation%20log%20is%20your%20work%20queue.
+L41: [4] https://blog.hubspot.com/marketing/chatgpt-product-recommendations#:~:text=If%20you're%20linked%20or%20cited%20in%20ChatGPT,*%20Track%20brand%20mentions%20with%20monitoring%20tools.
+L42: [5] https://medium.com/@liam-discovered/how-do-b2b-saas-companies-get-recommended-by-ai-search-engines-in-2025-7c54ddc5aedd#:~:text=Share%20of%20voice%3A%20Your%20citations%20compared%20to,*%20More%20qualified%20leads%20mentioning%20specific%20features.
+L43: [6] https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt#:~:text=ChatGPT%20builds%20a%20shortlist%20from%20two%20stores.,OAI-SearchBot%20and%20the%20index%20behind%20ChatGPT%20search.
+L44: [7] https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt#:~:text=To%20get%20your%20SaaS%20recommended%20by%20ChatGPT,one%20line%20description%20of%20what%20you%20sell.
+L45: [8] https://www.devcommx.com/blogs/how-to-get-saas-recommended-by-chatgpt#:~:text=The%20full%20technical%20checklist%20lives%20in%20our,for%20the%20same%20claim%20from%20independent%20places.

@@ -1,0 +1,62 @@
+L1: The short answer is: **it can help, but I would not expect it to reliably make a B2B SaaS product start getting recommended by ChatGPT on its own.**
+L2: 
+L3: Here's why.
+L4: 
+L5: Kasparro positions itself as an "AI Revenue Engine" that helps brands become more visible in AI assistants like ChatGPT. Their core idea—optimizing for AI search and recommendations—is a real and growing discipline (often called **Generative Engine Optimization (GEO)** or **LLM optimization**). [www.empact.partners](https://www.empact.partners/empact-zone/chatgpt-software-recommendations?utm_source=chatgpt.com)
+L6: 
+L7: However, I couldn't find independent evidence showing that Kasparro consistently delivers measurable improvements for B2B SaaS companies specifically. Most of the publicly available material is the company's own positioning rather than third-party case studies with before/after data. [www.scamadviser.com](https://www.scamadviser.com/check-website/kasparro.com?utm_source=chatgpt.com)
+L8: 
+L9: For B2B SaaS, ChatGPT recommendations are usually influenced by a combination of signals, including:
+L10: 
+L11: - Strong positioning ("best CRM for agencies" is easier than "best CRM")
+L12: - High-quality documentation and website content
+L13: - Mentions in trusted publications
+L14: - Reviews on sites like G2 and Capterra
+L15: - Comparison pages ("X vs Y", "Alternatives to Z")
+L16: - Consistent brand mentions across reputable websites
+L17: - Technical clarity (structured content, pricing, features, integrations)
+L18: - Overall brand reputation and authority [www.empact.partners](https://www.empact.partners/empact-zone/chatgpt-software-recommendations?utm_source=chatgpt.com)
+L19: 
+L20: If a service helps you improve those things, it may increase the chances that AI systems recommend your product. But no agency can legitimately guarantee that ChatGPT will recommend your software for specific prompts, because the models use many changing signals and recommendations vary by context.
+L21: 
+L22: ### What I'd ask Kasparro before buying
+L23: 
+L24: If you're evaluating them, I'd ask for concrete evidence such as:
+L25: 
+L26: - Which B2B SaaS companies have they worked with?
+L27: - Which prompts improved?
+L28: - How were improvements measured?
+L29: - How long did it take?
+L30: - Were improvements observed in ChatGPT only, or also in Claude, Gemini, and Perplexity?
+L31: - Can they show independent analytics rather than screenshots?
+L32: 
+L33: If they can't answer those with real customer data, I'd be cautious.
+L34: 
+L35: ### My view
+L36: 
+L37: If your SaaS is already established and you're deciding between:
+L38: - spending $10–20k on an AI visibility agency, or
+L39: - investing the same budget in reviews, comparison content, PR, documentation, and authoritative backlinks,
+L40: 
+L41: the second option is likely to produce more durable results because those are the same signals AI systems tend to rely on when recommending software. A good GEO agency can accelerate that work, but it shouldn't replace it. [www.empact.partners](https://www.empact.partners/empact-zone/chatgpt-software-recommendations?utm_source=chatgpt.com)
+L42: 
+L43: If you're considering Kasparro specifically, tell me:
+L44: - what your SaaS does,
+L45: - your target customers, and
+L46: - roughly what Kasparro quoted you.
+L47: 
+L48: I can help assess whether their proposal seems likely to provide value for your situation.
+L49: 
+L50: Citations:
+L51: [1] https://www.empact.partners/empact-zone/chatgpt-software-recommendations
+L52: [2] https://www.scamadviser.com/check-website/kasparro.com
+L53: [3] https://www.g2.com/products/kaspr/reviews
+L54: [4] https://www.g2.com/sellers/kaspr
+L55: [5] https://www.g2.com/products/kaspr/reviews?qs=pros-and-cons
+L56: [6] https://www.g2.com/es/products/kaspr/reviews
+L57: [7] https://www.g2.com/products/gaspar-ai/reviews
+L58: [8] https://mentionable.ai/en/guides/geo-for-saas
+L59: [9] https://b2bdatareviews.com/reviews/kaspr/
+L60: [10] https://aicarma.com/blog/saas-geo-playbook/
+L61: [11] https://derivatex.agency/report/chatgpt-software-recommendation-sources/
+L62: [12] https://www.capterra.com/p/255282/Kasplo/reviews/

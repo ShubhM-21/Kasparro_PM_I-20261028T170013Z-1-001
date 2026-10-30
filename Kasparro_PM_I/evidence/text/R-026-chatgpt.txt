@@ -1,0 +1,125 @@
+L1: Most B2B SaaS companies can't directly see whether ChatGPT recommended them to an individual user. There's no analytics dashboard from ChatGPT that says, "Your brand was recommended 1,250 times this month."
+L2: 
+L3: Instead, they combine several approaches to estimate and improve AI visibility.
+L4: 
+L5: ### 1. Prompt tracking (the most common approach)
+L6: 
+L7: Teams build a library of buyer-intent prompts such as:
+L8: 
+L9: - "Best CRM for startups"
+L10: - "Project management software for agencies"
+L11: - "Alternatives to Salesforce"
+L12: - "Best SOC 2 compliance platform"
+L13: 
+L14: They run these prompts on a schedule (daily or weekly) across ChatGPT and other AI assistants, then measure:
+L15: 
+L16: - Was our brand mentioned?
+L17: - What position did it appear in?
+L18: - Which competitors were mentioned?
+L19: - What sources were cited?
+L20: 
+L21: This is similar to keyword rank tracking in SEO, except the "search result" is an AI-generated answer. AI visibility platforms automate this process across hundreds or thousands of prompts. [turboaudit.ai](https://turboaudit.ai/ai-monitoring?utm_source=chatgpt.com)[www.techradar.com](https://www.techradar.com/pro/how-to-track-your-brands-visibility-in-ai-search-results?utm_source=chatgpt.com)
+L22: 
+L23: ### 2. Share of voice
+L24: 
+L25: Rather than asking "Did ChatGPT recommend us?", companies ask:
+L26: 
+L27: > "Out of 500 important prompts, how often are we recommended?"
+L28: 
+L29: Example:
+L30: 
+L31: | Brand | Mention rate |
+L32: |-------|-------------:|
+L33: | Competitor A | 68% |
+L34: | My company | 41% |
+L35: | Competitor B | 27% |
+L36: 
+L37: 
+L38: This becomes an AI share-of-voice KPI, analogous to organic search visibility. [turboaudit.ai](https://turboaudit.ai/ai-monitoring?utm_source=chatgpt.com)
+L39: 
+L40: ### 3. Citation tracking
+L41: 
+L42: Modern AI assistants often cite sources. Teams monitor:
+L43: 
+L44: - Which websites are cited?
+L45: - Is their own documentation cited?
+L46: - Are review sites like G2 or Capterra cited?
+L47: - Are Reddit discussions influencing recommendations?
+L48: 
+L49: This helps identify where authority is being established. [turboaudit.ai](https://turboaudit.ai/ai-monitoring?utm_source=chatgpt.com)
+L50: 
+L51: ### 4. AI referral traffic
+L52: 
+L53: When AI assistants link to a company's website, marketers look in analytics for traffic from AI sources such as:
+L54: 
+L55: - ChatGPT
+L56: - Perplexity
+L57: - Gemini
+L58: - Claude
+L59: 
+L60: They measure:
+L61: 
+L62: - Sessions
+L63: - Signups
+L64: - Demo requests
+L65: - Revenue
+L66: 
+L67: This is one of the few direct signals that AI recommendations are generating visits. [www.techradar.com](https://www.techradar.com/pro/how-to-track-your-brands-visibility-in-ai-search-results?utm_source=chatgpt.com)
+L68: 
+L69: ### 5. Manual benchmarking
+L70: 
+L71: Many SaaS marketing teams still perform regular manual checks by asking important buyer questions and recording:
+L72: 
+L73: - the response,
+L74: - any cited sources,
+L75: - competitors mentioned,
+L76: - and changes over time.
+L77: 
+L78: This is simple but doesn't scale well beyond a modest prompt set. [www.techradar.com](https://www.techradar.com/pro/how-to-track-your-brands-visibility-in-ai-search-results?utm_source=chatgpt.com)
+L79: 
+L80: ### 6. Dedicated AI visibility tools
+L81: 
+L82: A new category of software has emerged to automate these workflows. Common features include:
+L83: 
+L84: - scheduled prompt monitoring,
+L85: - competitor comparisons,
+L86: - citation analysis,
+L87: - AI share of voice,
+L88: - historical trend reporting,
+L89: - and content recommendations to improve visibility.
+L90: 
+L91: The category is often referred to as AI visibility, Answer Engine Optimization (AEO), or Generative Engine Optimization (GEO). [turboaudit.ai](https://turboaudit.ai/ai-monitoring?utm_source=chatgpt.com)[www.techradar.com](https://www.techradar.com/pro/how-to-track-your-brands-visibility-in-ai-search-results?utm_source=chatgpt.com)
+L92: 
+L93: ### What sophisticated B2B SaaS companies typically track
+L94: 
+L95: A practical dashboard often includes:
+L96: 
+L97: - 500–2,000 buyer prompts
+L98: - Mention rate (% of prompts where the brand appears)
+L99: - Average recommendation position
+L100: - Competitor share of voice
+L101: - Citation share by source
+L102: - AI referral traffic
+L103: - Signups or pipeline attributed to AI referrals
+L104: - Changes before and after new content, PR, documentation, or product launches
+L105: 
+L106: ### Important limitation
+L107: 
+L108: Unlike Google Search Console, there is currently no official reporting that tells brands how many times ChatGPT recommended them across all users. Any platform claiming to measure this is generally estimating visibility by repeatedly querying AI models with representative prompts, not accessing internal ChatGPT recommendation data. [turboaudit.ai](https://turboaudit.ai/ai-monitoring?utm_source=chatgpt.com)[www.techradar.com](https://www.techradar.com/pro/how-to-track-your-brands-visibility-in-ai-search-results?utm_source=chatgpt.com)
+L109: 
+L110: For B2B SaaS companies, the most effective approach is to treat AI visibility much like SEO: maintain a representative prompt set, track mentions and citations over time, compare against competitors, and correlate those trends with referral traffic and business outcomes.
+L111: 
+L112: Citations:
+L113: [1] https://turboaudit.ai/ai-monitoring
+L114: [2] https://www.techradar.com/pro/how-to-track-your-brands-visibility-in-ai-search-results
+L115: [3] https://www.geoalt.in/
+L116: [4] https://mentiongeo.ai/
+L117: [5] https://geomonitor.app/
+L118: [6] https://outrankgeo.com/
+L119: [7] https://citorahq.com/
+L120: [8] https://www.marketscale.com/solutions/geo-ai-visibility
+L121: [9] https://www.geoflux.ai/product
+L122: [10] https://www.aipleasetellme.com/geo-aeo-b2b-saas
+L123: [11] https://www.genxtrim.com/
+L124: [12] https://appsupply.dev/
+L125: [13] https://www.tryoras.com/

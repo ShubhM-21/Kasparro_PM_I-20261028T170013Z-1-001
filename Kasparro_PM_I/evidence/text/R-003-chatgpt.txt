@@ -1,0 +1,53 @@
+L1: If your primary goal is **tracking how Claude recommends B2B software brands**, I would lean toward **Profound** over Kasparro.
+L2: 
+L3: Here's why:
+L4: 
+L5: | Capability | Profound | Kasparro |
+L6: |---|---|---|
+L7: | Claude visibility tracking | ✅ Strong | ⚠️ Not its primary focus |
+L8: | B2B SaaS prompt tracking | ✅ Yes | ❌ Primarily retail/CPG |
+L9: | Competitor comparisons | ✅ Extensive | Limited for SaaS |
+L10: | Prompt-level analytics | ✅ Yes | Focuses on shopping queries |
+L11: | Enterprise AI search monitoring | ✅ ChatGPT, Claude, Gemini, Perplexity, etc. | More focused on consumer purchase recommendations |
+L12: 
+L13: 
+L14: Profound was built around measuring AI search visibility across multiple models—including Claude—and has features like:
+L15: - prompt-level tracking,
+L16: - citation monitoring,
+L17: - competitive visibility,
+L18: - trend reporting,
+L19: - and analysis of which prompts your competitors win. [www.tryprofound.com](https://www.tryprofound.com/ai-instructions?utm_source=chatgpt.com)
+L20: 
+L21: Kasparro (assuming you mean the AI visibility platform rather than another product with a similar name) is aimed much more at **retail and CPG brands**. Its metrics revolve around AI shopping recommendations, "Brand Inclusion Rate," "Share of Invisible Shelf," and agentic commerce rather than B2B software evaluation. [getkasper.ai](https://getkasper.ai/?utm_source=chatgpt.com)
+L22: 
+L23: One nuance, though: if you're specifically interested in **recommendation probability** ("Does Claude recommend Salesforce or HubSpot more often?") rather than **visibility/citations**, neither platform may be ideal on its own.
+L24: 
+L25: Several newer tools are trying to measure recommendation distributions rather than just mentions, because recommendation and visibility are different metrics. For example, some platforms repeatedly run buyer-style prompts against Claude to estimate recommendation frequency across many prompt variations. [genezio.com](https://genezio.com/blog/genezio-vs-profound/?utm_source=chatgpt.com)
+L26: 
+L27: So I'd break it down like this:
+L28: 
+L29: - **For enterprise GEO/AI visibility:** Profound is the stronger choice.
+L30: - **For tracking Claude's B2B SaaS recommendations over time:** Profound is still likely the better fit today, but supplementing it with your own recurring prompt testing (or a recommendation-focused platform) will give a more accurate picture.
+L31: - **For retail/e-commerce brands:** Kasparro makes more sense.
+L32: 
+L33: If you're doing this for a SaaS company, I'd also ask: are you trying to measure:
+L34: 1. **share of mentions** (visibility),
+L35: 2. **#1 recommendation rate** (who Claude picks first),
+L36: 3. **citations/sources**, or
+L37: 4. **buyer-journey prompts** (e.g. "best CRM for startups" vs. "HubSpot alternatives")?
+L38: 
+L39: The best tool depends on which of those is your KPI.
+L40: 
+L41: Citations:
+L42: [1] https://www.tryprofound.com/ai-instructions
+L43: [2] https://getkasper.ai/
+L44: [3] https://genezio.com/blog/genezio-vs-profound/
+L45: [4] https://claude.com/connectors/profound
+L46: [5] https://www.tryprofound.com/resources/white-papers/platform-choice-privacy-and-task-allocation-in-the-consumer-ai-assistant-market
+L47: [6] https://www.tryprofound.com/blog/data-driven-prompt-recommendation
+L48: [7] https://www.tryprofound.com/blog/introducing-ask-profound
+L49: [8] https://slatehq.com/blog/how-claude-decides-which-brand-to-recommend
+L50: [9] https://runtruffle.com/blog/how-does-profound-work/
+L51: [10] https://derivatex.agency/report/b2b-saas-ai-citation-study/
+L52: [11] https://parse.gl/blog/perplexity-vs-chatgpt-vs-ai-overviews-brand-recommendations
+L53: [12] https://topify.ai/blog/ai-recommendation-tracking-software-buyers-guide

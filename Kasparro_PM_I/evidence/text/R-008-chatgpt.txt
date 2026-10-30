@@ -1,0 +1,109 @@
+L1: At a high level, the two products are aimed at different stages of the AI visibility workflow:
+L2: 
+L3: - **Kasparro** emphasizes a **diagnostic audit** that scores your brand's readiness for AI search and agentic commerce, then provides a prioritized playbook.
+L4: - **Otterly AI** is a broader **monitoring and optimization platform** designed for continuous tracking, reporting, and ongoing GEO (Generative Engine Optimization). [Kasparro](https://kasparro.com/?utm_source=chatgpt.com) [Otterly](https://otterly.ai/features?utm_source=chatgpt.com)
+L5: 
+L6: Here's a feature-by-feature comparison.
+L7: 
+L8: Capability | Kasparro | Otterly AI
+L9: --- | --- | ---
+L10: AI visibility audit | ✅ Four-module audit | ✅ GEO Audit
+L11: Continuous monitoring | Limited emphasis | ✅ Core feature
+L12: Prompt tracking | Audit-oriented | ✅ Daily prompt monitoring
+L13: Brand visibility metrics | ✅ Search visibility scoring | ✅ Visibility Index & brand reports
+L14: Citation analysis | ✅ Trust signal scoring | ✅ Citation tracking & gap analysis
+L15: Content recommendations | ✅ Playbook tied to audit scores | ✅ GEO recommendations & content briefs
+L16: Competitor insights | Implicit via comparative prompts | ✅ Brand & competitor reports
+L17: Sentiment analysis | Not highlighted | ✅ Brand sentiment
+L18: Reporting & exports | Not emphasized | ✅ CSV exports, dashboards
+L19: API / integrations | Not highlighted publicly | ✅ API, Looker Studio, workspaces
+L20: 
+L21: ### Kasparro's audit system
+L22: 
+L23: Kasparro organizes its audit around **four scoring modules**:
+L24: 
+L25: 1. **Search Visibility** - Inclusion rate
+L26: - Comparative recall
+L27: - Coverage across AI engines
+L28: 
+L29: 1. **Trust Signals** - Citation quality
+L30: - Third-party evidence
+L31: - Claim alignment
+L32: 
+L33: 1. **Content Quality** - Catalog coverage
+L34: - Attribute richness
+L35: - Embedding consistency
+L36: 
+L37: 1. **Transaction Readiness** - Structured data
+L38: - Agent-ready product information
+L39: - Purchase readiness
+L40: 
+L41: The emphasis is on answering:
+L42: 
+L43: >  *"Why aren't AI systems recommending us, and what should we fix?"* [Kasparro](https://kasparro.com/?utm_source=chatgpt.com)
+L44: That makes it feel closer to a strategic audit than a day-to-day analytics dashboard.
+L45: 
+L46: ### Otterly AI's feature set
+L47: 
+L48: Otterly has expanded into a full AI search intelligence platform with features including:
+L49: 
+L50: - AI prompt research
+L51: - Daily monitoring across ChatGPT, Gemini, Perplexity, Google AI Overviews, AI Mode, and other supported AI search experiences
+L52: - Brand visibility tracking
+L53: - Domain citation tracking
+L54: - Brand sentiment
+L55: - GEO audits
+L56: - Website citation gap analysis
+L57: - Content audits
+L58: - Content briefs
+L59: - Workspaces for agencies
+L60: - Looker Studio integration
+L61: - CSV exports and reporting
+L62: - API access on higher plans [Otterly](https://otterly.ai/?utm_source=chatgpt.com) [Otterly](https://otterly.ai/features?utm_source=chatgpt.com)
+L63: 
+L64: Otterly answers questions like:
+L65: 
+L66: - "How did our AI visibility change this week?"
+L67: - "Which prompts lost visibility?"
+L68: - "Which pages are cited?"
+L69: - "Which competitors are gaining?"
+L70: 
+L71: ### Biggest philosophical difference
+L72: 
+L73: Kasparro appears designed around **readiness scoring**.
+L74: 
+L75: The workflow is:
+L76: 
+L77: >  Audit → Scores → Prioritized fixes
+L78: Otterly is designed around **continuous measurement**.
+L79: 
+L80: The workflow is:
+L81: 
+L82: >  Monitor → Measure → Optimize → Monitor again
+L83: ### Which is stronger for different use cases?
+L84: 
+L85: **Choose Kasparro if you primarily want:**
+L86: 
+L87: - An executive-level assessment of AI readiness
+L88: - A structured diagnostic across visibility, trust, content, and transaction readiness
+L89: - A roadmap of what to improve first [Kasparro](https://kasparro.com/?utm_source=chatgpt.com)
+L90: 
+L91: **Choose Otterly if you primarily want:**
+L92: 
+L93: - Ongoing AI search monitoring
+L94: - Prompt tracking over time
+L95: - Brand and citation analytics
+L96: - Agency reporting
+L97: - Integrations and dashboards
+L98: - Continuous GEO optimization workflows [Otterly](https://otterly.ai/?utm_source=chatgpt.com) [Otterly](https://otterly.ai/features?utm_source=chatgpt.com)
+L99: 
+L100: ### Are they direct competitors?
+L101: 
+L102: Only partially.
+L103: 
+L104: Kasparro's publicly described offering is centered on an **assessment framework** with actionable scores across four dimensions. Otterly includes an audit feature but is positioned as a broader operational platform for monitoring, analytics, and optimization over time. If your team needs ongoing visibility tracking and reporting, Otterly offers a more comprehensive operational toolkit. If the immediate goal is to diagnose AI discoverability and prioritize improvements, Kasparro's audit-first approach is more narrowly focused. [Kasparro](https://kasparro.com/?utm_source=chatgpt.com) [Otterly](https://otterly.ai/?utm_source=chatgpt.com)
+L105: 
+L106: Citations:
+L107: [1] https://kasparro.com/
+L108: [2] https://otterly.ai/features
+L109: [3] https://otterly.ai/

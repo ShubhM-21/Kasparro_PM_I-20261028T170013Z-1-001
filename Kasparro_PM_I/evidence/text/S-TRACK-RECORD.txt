@@ -1,0 +1,14 @@
+L1: [
+L2:   {
+L3:     "entity_text": "KASPARRO Q1 2026 BENCHMARK · n=64",
+L4:     "source_urls": "[\"https://kasparro.com\"]",
+L5:     "page_context": "Section 05 EVIDENCE, citing a benchmark study conducted by the brand.",
+L6:     "created_at": "2026-07-31T04:04:42.477556+00:00"
+L7:   },
+L8:   {
+L9:     "entity_text": "KASPARRO COHORT — JAN 2026",
+L10:     "source_urls": "[\"https://kasparro.com\"]",
+L11:     "page_context": "Section 05 EVIDENCE, referencing a cohort study from Jan 2026.",
+L12:     "created_at": "2026-07-31T04:04:42.477556+00:00"
+L13:   }
+L14: ]

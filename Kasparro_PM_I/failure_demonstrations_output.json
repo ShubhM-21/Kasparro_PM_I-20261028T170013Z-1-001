@@ -1,0 +1,121 @@
+{
+  "1_missing_or_contradictory_evidence": {
+    "input": {
+      "case_id": "PM10",
+      "request_id": "DEMO-1-PM10",
+      "question": "A stakeholder proposes citing the website benchmark and cohort figures as proof of customer impact.",
+      "allowed_source_ids": [
+        "R-014-chatgpt",
+        "S-WEBSITE-CLAIMS",
+        "S-TRACK-RECORD"
+      ],
+      "decision_as_of": "2026-10-27",
+      "claim_time_scope": "current_decision"
+    },
+    "expected_behaviour": "Expose 18.4% mean-vs-median contradiction and missing cohort dataset; route to human review as NEEDS_REVIEW.",
+    "observed_state": {
+      "review_route": "ROUTE_TO_HUMAN",
+      "review_status": "NEEDS_REVIEW",
+      "warning_flags": [
+        "FLAG-UNVERIFIED-BENCHMARK: First-party benchmark/cohort claim lacks underlying study dataset.",
+        "FLAG-TEMPORAL-GAP: Current buying/commercial decision requested using July 2026 historical captures."
+      ],
+      "uncertainties": [
+        "Whether 18.4% is a mean or a median is unresolved due to conflicting labels on kasparro.com.",
+        "No raw cohort data, inclusion denominator definitions, prompt sets, or attribution controls exist in the pack to link n=64 or the Jan 2026 cohort to the 3.4x lift claim."
+      ]
+    },
+    "passed": true
+  },
+  "2_failed_tool_bounded_retry_and_safe_stop": {
+    "input": {
+      "case": "PM01",
+      "source": "R-007-gemini",
+      "scenarios_tested": [
+        "transient_timeout",
+        "permanent_timeout"
+      ]
+    },
+    "expected_behaviour": "Transient timeout recovers on attempt 3; permanent timeout stops at retry bound (3) and halts report in SAFE_STOP/STOPPED.",
+    "observed_state": {
+      "transient_attempts": [
+        {
+          "attempt": 1,
+          "returncode": 3,
+          "stdout_preview": "{\"ok\": false, \"fixture\": true, \"error\": {\"code\": \"TIMEOUT\", \"retryable\": true}, \"attempt\": 1}",
+          "stderr_preview": ""
+        },
+        {
+          "attempt": 2,
+          "returncode": 3,
+          "stdout_preview": "{\"ok\": false, \"fixture\": true, \"error\": {\"code\": \"TIMEOUT\", \"retryable\": true}, \"attempt\": 2}",
+          "stderr_preview": ""
+        },
+        {
+          "attempt": 3,
+          "returncode": 0,
+          "stdout_preview": "{\"ok\": true, \"source\": {\"source_id\": \"R-007-gemini\", \"kind\": \"archived_engine_answer\", \"title\": \"Gemini answer to kaspar",
+          "stderr_preview": ""
+        }
+      ],
+      "permanent_timeout_route": "SAFE_STOP",
+      "permanent_timeout_status": "STOPPED",
+      "permanent_timeout_critical_flags": [
+        "CRIT-EMPTY-EVIDENCE: Zero valid evidence sources retrieved."
+      ]
+    },
+    "passed": true
+  },
+  "3_duplicate_request_and_conflict_guard": {
+    "input": {
+      "request_id": "DEMO-3-DUP",
+      "identical_retries": 2,
+      "conflicting_payload_test": true
+    },
+    "expected_behaviour": "Identical retry returns existing version and keeps exactly 1 review task in SQLite; mutated payload with same request_id raises CONFLICT_ERROR.",
+    "observed_state": {
+      "review_tasks_count": 1,
+      "review_tasks": [
+        {
+          "task_id": "TASK-DEMO-3-DUP-v1",
+          "request_id": "DEMO-3-DUP",
+          "version": 1,
+          "status": "NEEDS_REVIEW",
+          "assigned_role": "internal_analyst"
+        }
+      ],
+      "conflict_on_mutated_payload_caught": true
+    },
+    "passed": true
+  },
+  "4_human_rejection_role_authority_and_timeout": {
+    "input": {
+      "rejection_request": "DEMO-4-REJECT",
+      "timeout_request": "DEMO-4-TIMEOUT"
+    },
+    "expected_behaviour": "Unauthorized role denied; rejected version stays terminal REJECTED; timed-out version transitions to terminal EXPIRED without silent approval.",
+    "observed_state": {
+      "unauthorized_attempt_denied": true,
+      "rejected_status": "REJECTED",
+      "reapprove_after_reject_denied": true,
+      "timeout_status": "EXPIRED",
+      "timeout_message": "EXPIRED: Review timed out. Silent approval blocked; call spawn_revised_version() to re-queue."
+    },
+    "passed": true
+  },
+  "5_change_after_approval_invalidation": {
+    "input": {
+      "request_id": "DEMO-5-CHANGE",
+      "mutation": "Modified uncertainties_and_gaps after v1 approval"
+    },
+    "expected_behaviour": "Full-payload SHA-256 mismatch revokes v1 approval and spawns v2 in NEEDS_REVIEW.",
+    "observed_state": {
+      "v1_certified_hash": "acafb4ce62faf55899c7a665853d03695b629f14f3fc13abee21c57c62692392",
+      "v2_new_hash": "2d95ca35bc431b89831d61285af2c6cdcde846ac8bc7693f4f37c9dc34c34db7",
+      "new_version": 2,
+      "new_status": "NEEDS_REVIEW",
+      "invalidation_message": "INVALIDATED: Content hash mismatch (5090fbe5f2 != acafb4ce62). Spawned v2 for renewed review."
+    },
+    "passed": true
+  }
+}

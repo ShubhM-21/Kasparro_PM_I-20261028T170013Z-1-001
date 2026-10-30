@@ -1,0 +1,36 @@
+L1: {
+L2:   "source_id": "BRAND-SNAPSHOT-20260731",
+L3:   "source_kind": "archived_first_party_schema",
+L4:   "url": "https://kasparro.com",
+L5:   "archive_recorded_at": "2026-07-31T04:04:40.167938+00:00",
+L6:   "publication_date": null,
+L7:   "page_title": "Kasparro — Inclusion is the new ranking.",
+L8:   "page_description": "Seller-side revenue infrastructure for AI-mediated commerce. Measure how often your brand appears inside ChatGPT, Claude, Perplexity, Gemini and Copilot — then move the number.",
+L9:   "schema_json": {
+L10:     "json-ld": [
+L11:       {
+L12:         "@context": "https://schema.org",
+L13:         "@type": "Organization",
+L14:         "name": "Kasparro",
+L15:         "url": "https://kasparro.com",
+L16:         "logo": "https://kasparro.com/brand/icon-512.png",
+L17:         "description": "Seller-side revenue infrastructure for AI-mediated commerce. Measure and improve how brands surface inside ChatGPT, Claude, Perplexity, Gemini and Copilot.",
+L18:         "foundingDate": "2026",
+L19:         "areaServed": "Worldwide",
+L20:         "knowsAbout": [
+L21:           "AI-mediated commerce",
+L22:           "AI inclusion optimization",
+L23:           "brand visibility in AI engines"
+L24:         ]
+L25:       },
+L26:       {
+L27:         "@context": "https://schema.org",
+L28:         "@type": "WebSite",
+L29:         "name": "Kasparro",
+L30:         "url": "https://kasparro.com"
+L31:       }
+L32:     ],
+L33:     "microdata": []
+L34:   },
+L35:   "scope_note": "Homepage structured data recorded in the historical export. Declared company claims are not independent validation or a complete page archive."
+L36: }

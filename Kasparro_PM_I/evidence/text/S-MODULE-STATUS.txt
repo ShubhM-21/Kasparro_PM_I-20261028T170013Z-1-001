@@ -1,0 +1,61 @@
+L1: {
+L2:   "run_id": "4a4b71d9-9b0d-4497-85f1-7db5c4e21472",
+L3:   "modules": [
+L4:     {
+L5:       "module_name": "perception_graph",
+L6:       "status": "completed",
+L7:       "failure_reason": null,
+L8:       "started_at": "2026-07-31T04:04:30.265563+00:00",
+L9:       "completed_at": "2026-07-31T04:08:52.213482+00:00",
+L10:       "failed_at": null
+L11:     },
+L12:     {
+L13:       "module_name": "non_branded_keywords",
+L14:       "status": "failed",
+L15:       "failure_reason": "ran=False: ['gate_halt: nonbranded_spine_unavailable']",
+L16:       "started_at": "2026-07-31T04:04:30.265706+00:00",
+L17:       "completed_at": null,
+L18:       "failed_at": "2026-07-31T04:04:34.059072+00:00"
+L19:     },
+L20:     {
+L21:       "module_name": "serp_entity_schema",
+L22:       "status": "completed",
+L23:       "failure_reason": null,
+L24:       "started_at": "2026-07-31T04:04:30.264278+00:00",
+L25:       "completed_at": "2026-07-31T04:04:40.226003+00:00",
+L26:       "failed_at": null
+L27:     },
+L28:     {
+L29:       "module_name": "eeat",
+L30:       "status": "completed",
+L31:       "failure_reason": null,
+L32:       "started_at": "2026-07-31T04:04:30.264146+00:00",
+L33:       "completed_at": "2026-07-31T04:04:47.205972+00:00",
+L34:       "failed_at": null
+L35:     },
+L36:     {
+L37:       "module_name": "backlink_trust_vector",
+L38:       "status": "completed",
+L39:       "failure_reason": null,
+L40:       "started_at": "2026-07-31T04:04:30.266661+00:00",
+L41:       "completed_at": "2026-07-31T04:04:48.545709+00:00",
+L42:       "failed_at": null
+L43:     },
+L44:     {
+L45:       "module_name": "ai_search_visibility",
+L46:       "status": "completed",
+L47:       "failure_reason": null,
+L48:       "started_at": "2026-07-31T04:04:30.263036+00:00",
+L49:       "completed_at": "2026-07-31T04:06:48.466397+00:00",
+L50:       "failed_at": null
+L51:     },
+L52:     {
+L53:       "module_name": "ai_sentiment",
+L54:       "status": "completed",
+L55:       "failure_reason": null,
+L56:       "started_at": "2026-07-31T04:04:30.265655+00:00",
+L57:       "completed_at": "2026-07-31T04:08:12.031405+00:00",
+L58:       "failed_at": null
+L59:     }
+L60:   ]
+L61: }

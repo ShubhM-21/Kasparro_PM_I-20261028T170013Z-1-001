@@ -1,0 +1,66 @@
+L1: Kasparro's **Four Module Audit Score** appears to be a proprietary assessment framework that measures **how visible and "recommendable" a brand is to AI assistants** (such as ChatGPT, Claude, Gemini, Perplexity, and Copilot). According to Kasparro's published methodology, the audit produces scores across four areas rather than relying on traditional SEO or ad metrics. [kasparro.com](https://kasparro.com/?utm_source=chatgpt.com)
+L2: 
+L3: The four modules are:
+L4: 
+L5: 1. **Search Visibility**
+L6:    - Measures how often your brand appears in high-intent AI conversations.
+L7:    - Looks at metrics such as:
+L8:      - Inclusion rate
+L9:      - Comparative recall
+L10:      - Coverage across supported AI systems
+L11:    - This answers questions like: *"When someone asks an AI for the best protein powder, does my brand get mentioned?"* [kasparro.com](https://kasparro.com/?utm_source=chatgpt.com)
+L12: 
+L13: 2. **Trust Signals**
+L14:    - Evaluates whether AI systems can find evidence that supports recommending your brand.
+L15:    - Includes factors such as:
+L16:      - Third-party citations
+L17:      - Verifiable claims
+L18:      - Source quality
+L19:      - Claim alignment
+L20:    - AI models generally favor information they can corroborate from reliable sources. [kasparro.com](https://kasparro.com/?utm_source=chatgpt.com)
+L21: 
+L22: 3. **Content Quality**
+L23:    - Reviews how well your website, catalog, and content are structured for language models.
+L24:    - Metrics mentioned include:
+L25:      - Catalog coverage
+L26:      - Attribute density
+L27:      - Embedding consistency ("embedding drift")
+L28:    - The emphasis is on structured, complete product information rather than marketing copy alone. [kasparro.com](https://kasparro.com/?utm_source=chatgpt.com)
+L29: 
+L30: 4. **Transaction Readiness**
+L31:    - Measures whether AI agents can easily complete or facilitate a purchase.
+L32:    - Factors include:
+L33:      - Structured data (schema)
+L34:      - Price availability
+L35:      - Fulfillment information
+L36:      - Site latency
+L37:      - Agent-ready product listings
+L38:    - The goal is to make products easy for AI systems to understand and act on. [kasparro.com](https://kasparro.com/?utm_source=chatgpt.com)
+L39: 
+L40: ### Is there one overall score?
+L41: 
+L42: The site suggests these four modules roll up into an overall diagnostic score (examples like **82/100** are shown), but Kasparro does **not publicly document** the exact weighting or mathematical formula used to combine them. It appears to be a proprietary scoring model rather than an industry standard. [kasparro.com](https://kasparro.com/?utm_source=chatgpt.com)
+L43: 
+L44: ### What the score is trying to predict
+L45: 
+L46: Unlike traditional SEO metrics that focus on Google rankings, Kasparro's score is intended to estimate your brand's readiness for **AI-mediated commerce**—specifically:
+L47: - whether AI assistants mention your brand,
+L48: - whether they trust it enough to recommend it,
+L49: - whether they understand your products,
+L50: - and whether they can easily direct or complete a purchase. [kasparro.com](https://kasparro.com/?utm_source=chatgpt.com)
+L51: 
+L52: In short, the Four Module Audit Score is an **AI visibility and recommendation readiness score**, built around those four dimensions. The exact scoring algorithm is not publicly disclosed, so while the framework is described, the internal calculation remains proprietary.
+L53: 
+L54: Citations:
+L55: [1] https://kasparro.com/
+L56: [2] https://help.sap.com/docs/SAP_ASSURANCE_AND_COMPLIANCE_SOFTWARE_FOR_SAP_S_4HANA_-_SAP_AUDIT_MANAGEMENT_FOR_SAP_S_4HANA/ade3d97371f947d782b3df01ca5300a8/1cb2ca9fc9544ef3930f7b8f3f927de3.html?version=1.7.0.0
+L57: [3] https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/01880f8d7c974eb6946dddc1a6f1e610/f278eb20e3c640008291f9b263bdbfb3.html
+L58: [4] https://help.sap.com/docs/acs/8b0c07a7fa6045f28d1e468066a67921/1cb2ca9fc9544ef3930f7b8f3f927de3.html?locale=en-US&state=PRODUCTION&version=1.6.0.0
+L59: [5] https://www.care.cag.gov.in/policy/Policy24_25.htm
+L60: [6] https://help.auditsoft.co/en/articles/10547851-understanding-the-scoring-on-your-audit
+L61: [7] https://www.mercia-group.com/compliance/audit-quality-review-grades/
+L62: [8] https://docs.sprinto.com/audits/dashboard-actions/scoring-an-audit
+L63: [9] https://www.curriculumauditor.com/
+L64: [10] https://apps.odoo.com/apps/modules/19.0/atliis_user_access_audit
+L65: [11] https://www.scribd.com/document/854023999/QA-04-Auditing-Procedure-Rev-05
+L66: [12] https://casp.in/resource/Services/Audit.aspx
